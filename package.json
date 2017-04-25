@@ -1,0 +1,30 @@
+{
+  "name": "Node app",
+  "version": "1.0.0",
+  "description": "Node application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feekzie/work-app.git"
+  },
+  "keywords": [
+    "Wolt Task"
+  ],
+  "author": "Olatunji Wafeek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feekzie/work-app/issues"
+  },
+  "homepage": "https://github.com/feekzie/work-app#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}

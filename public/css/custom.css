@@ -1,0 +1,57 @@
+html {
+	height:100%;
+	
+	
+}
+.container {
+	height:100%;
+	background: white;
+	margin:0;
+	padding:0;
+	width:100%;
+	position: relative;
+}
+.wrapper {
+	margin-top:10%;
+}
+h1 {
+	text-align:center;
+	color:black;
+	font-size: 2em;
+}
+body {
+	background: white;
+	height:100%;
+	font-family: 'Amiri', serif;
+}
+
+li {
+	list-style: none;
+	font-size: 1.2em;
+	line-height: 250%;
+}
+p{
+text-align :center;
+font-size: 1.2em;
+line-height: 196%;
+border-bottom:1px solid #ecf2f9;
+}
+.clear {
+	clear: both;
+}
+ul {
+	float:left;
+	width :50%;
+	text-align: center;
+	/*border-right:1px solid black;*/
+	background: lightblue;
+}
+
+section {
+	float:left;
+	width:50%;
+}
+
+
+
+
